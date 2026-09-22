@@ -1,0 +1,52 @@
+xfce4-session-Message: 09:25:41.452: SSH authentication agent is already running
+
+(xfwm4:10236): xfwm4-WARNING **: 09:25:41.611: Unsupported GL renderer (llvmpipe (LLVM 18.1.8, 256 bits)).
+vmware-user: could not open /proc/fs/vmblock/dev
+
+(xfce4-notifyd:10319): xfce4-notifyd-WARNING **: 09:25:42.308: Unable to open notification log: Failed to prepare SQL statement: near "STRICT": syntax error (CREATE TABLE IF NOT EXISTS notifications (id TEXT PRIMARY KEY NOT NULL,timestamp INTEGER NOT NULL,tz_identifier TEXT NOT NULL,app_id TEXT,app_name TEXT,icon_id TEXT,summary TEXT,body TEXT,actions BLOB,expire_timeout INTEGER,is_read INTEGER NOT NULL DEFAULT FALSE) STRICT)
+
+(xfce4-power-manager:10323): xfce4-power-manager-WARNING **: 09:25:42.986: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:10323): WARNING **: 09:25:42.998: No outputs have backlight property
+
+(xfce4-power-manager:10323): xfce4-power-manager-WARNING **: 09:25:43.008: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.UPower.KbdBacklight” on object at path /org/freedesktop/UPower/KbdBacklight
+
+** (wrapper-2.0:10314): WARNING **: 09:25:43.128: No outputs have backlight property
+
+(wrapper-2.0:10314): Gtk-CRITICAL **: 09:25:43.211: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:10314): Gtk-CRITICAL **: 09:25:43.229: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:10314): Gtk-CRITICAL **: 09:25:43.229: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:10322): xfce4-notification-plugin-WARNING **: 09:25:43.308: Unable to check for unread messages: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._g_2dio_2derror_2dquark.Code0: Log is unavailable
+
+(wrapper-2.0:10314): Gtk-CRITICAL **: 09:25:43.327: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(tracker-miner-fs-3:10304): Tracker-CRITICAL **: 09:25:43.803: Could not request DBus name 'org.freedesktop.Tracker3.Miner.Files': D-Bus service name:'org.freedesktop.Tracker3.Miner.Files' is already taken, perhaps the application is already running?
+
+(thunar-volman:11019): GLib-CRITICAL **: 09:25:48.998: g_strstr_len: assertion 'haystack != NULL' failed
+
+(thunar-volman:11019): GLib-CRITICAL **: 09:25:48.998: g_strstr_len: assertion 'haystack != NULL' failed
+
+(thunar-volman:11019): GLib-CRITICAL **: 09:25:48.998: g_strstr_len: assertion 'haystack != NULL' failed
+
+(thunar-volman:11034): GLib-CRITICAL **: 09:25:49.034: g_strstr_len: assertion 'haystack != NULL' failed
+
+(thunar-volman:11034): GLib-CRITICAL **: 09:25:49.034: g_strstr_len: assertion 'haystack != NULL' failed
+
+(thunar-volman:11034): GLib-CRITICAL **: 09:25:49.034: g_strstr_len: assertion 'haystack != NULL' failed
+thunar-volman: Unsupported input device type "/dev/input/event5".
+
+(thunar-volman:11041): GLib-CRITICAL **: 09:25:49.066: g_strstr_len: assertion 'haystack != NULL' failed
+
+(thunar-volman:11041): GLib-CRITICAL **: 09:25:49.066: g_strstr_len: assertion 'haystack != NULL' failed
+
+(thunar-volman:11041): GLib-CRITICAL **: 09:25:49.066: g_strstr_len: assertion 'haystack != NULL' failed
+
+(thunar-volman:11046): GLib-CRITICAL **: 09:25:49.110: g_strstr_len: assertion 'haystack != NULL' failed
+
+(thunar-volman:11046): GLib-CRITICAL **: 09:25:49.110: g_strstr_len: assertion 'haystack != NULL' failed
+
+(thunar-volman:11046): GLib-CRITICAL **: 09:25:49.110: g_strstr_len: assertion 'haystack != NULL' failed

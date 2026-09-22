@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Screensaver Idle Poweroff
+Exec=/home/cloud/.local/sbin/osha-ec2-agent > /home/cloud/.local/osha-ec2-agent.log 2>&1
+Terminal=false

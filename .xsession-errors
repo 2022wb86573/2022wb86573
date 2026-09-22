@@ -1,0 +1,216 @@
+Environment variable $XAUTHORITY not set, ignoring.
+/usr/bin/startxfce4: X server already running on display :10.0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+xfce4-session-Message: 10:48:51.592: SSH authentication agent is already running
+
+(xfwm4:2538): xfwm4-WARNING **: 10:48:53.902: Unsupported GL renderer (llvmpipe (LLVM 18.1.8, 256 bits)).
+Listening for XFCE screensaver ActiveChanged signals...
+vmware-user: could not open /proc/fs/vmblock/dev
+
+(xfce4-notifyd:2619): xfce4-notifyd-WARNING **: 10:48:56.031: Unable to open notification log: Failed to prepare SQL statement: near "STRICT": syntax error (CREATE TABLE IF NOT EXISTS notifications (id TEXT PRIMARY KEY NOT NULL,timestamp INTEGER NOT NULL,tz_identifier TEXT NOT NULL,app_id TEXT,app_name TEXT,icon_id TEXT,summary TEXT,body TEXT,actions BLOB,expire_timeout INTEGER,is_read INTEGER NOT NULL DEFAULT FALSE) STRICT)
+Xlib:  extension "DPMS" missing on display ":10.0".
+
+(xfce4-power-manager:2624): xfce4-power-manager-WARNING **: 10:48:56.194: Monitor is not DPMS capable
+
+(xfce4-power-manager:2624): xfce4-power-manager-WARNING **: 10:48:56.942: could not map keysym 1008ffa8 to keycode
+
+
+(xfce4-power-manager:2624): xfce4-power-manager-WARNING **: 10:48:57.044: Unable to inhibit systemd sleep: GDBus.Error:org.freedesktop.DBus.Error.AccessDenied: Permission denied
+
+** (xfce4-power-manager:2624): WARNING **: 10:48:57.045: No outputs have backlight property
+
+(xfce4-power-manager:2624): xfce4-power-manager-WARNING **: 10:48:57.119: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.UPower.KbdBacklight” on object at path /org/freedesktop/UPower/KbdBacklight
+
+** (wrapper-2.0:2665): WARNING **: 10:48:57.451: No outputs have backlight property
+
+(wrapper-2.0:2665): Gtk-CRITICAL **: 10:48:57.653: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:2665): Gtk-CRITICAL **: 10:48:57.668: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:2665): Gtk-CRITICAL **: 10:48:57.668: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:2665): Gtk-CRITICAL **: 10:48:57.795: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:2667): xfce4-notification-plugin-WARNING **: 10:48:57.842: Unable to check for unread messages: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._g_2dio_2derror_2dquark.Code0: Log is unavailable
+
+(xfce4-panel:2558): xfce4-panel-CRITICAL **: 10:49:07.974: panel-window.c:2346 (panel_window_active_window_geometry_changed): expression 'WNCK_IS_WINDOW (active_window)' failed.
+Xlib:  extension "DPMS" missing on display ":10.0".
+Safe Browsing server returned a 400 during update:request url = https://safebrowsing.googleapis.com/v4/threatListUpdates:fetch?$ct=application/x-protobuf&key=AIzaSyBPGXa4AYD4FC3HJK7LnIKxm4fDusVuuco&$httpMethod=POST, payload = ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaJwgFEAIaGwoNCAUQBhgBIgMwMDEwARCBlRoaAhgEWXzSYSICIAIoARonCAEQAhobCg0IARAGGAEiAzAwMTABEOHvDxoCGASXpOl-IgIgAigBGicIAxACGhsKDQgDEAYYASIDMDAxMAEQgucPGgIYBIwVKB8iAiACKAEaJwgHEAIaGwoNCAcQBhgBIgMwMDEwARDhtRAaAhgESXqeXSICIAIoARolCAkQAhoZCg0ICRAGGAEiAzAwMTABECMaAhgE5WKYUCICIAIoAQ==
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=239.57) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+
+(tracker-miner-fs-3:2588): GLib-CRITICAL **: 10:53:10.996: g_hash_table_contains: assertion 'hash_table != NULL' failed
+Xlib:  extension "DPMS" missing on display ":10.0".
+[Parent 2825, Main Thread] WARNING: Cannot launch default application: No application is registered as handling this file: 'glib warning', file /builddir/build/BUILD/firefox-128.6.0/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:2825): WARNING **: 10:53:13.081: Cannot launch default application: No application is registered as handling this file
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+[Parent 2825, Main Thread] WARNING: Cannot launch default application: No application is registered as handling this file: 'glib warning', file /builddir/build/BUILD/firefox-128.6.0/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:2825): WARNING **: 10:53:51.811: Cannot launch default application: No application is registered as handling this file
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+[Parent 2825, Main Thread] WARNING: Cannot launch default application: No application is registered as handling this file: 'glib warning', file /builddir/build/BUILD/firefox-128.6.0/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:2825): WARNING **: 10:54:52.114: Cannot launch default application: No application is registered as handling this file
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+[Parent 2825, Main Thread] WARNING: Cannot launch default application: No application is registered as handling this file: 'glib warning', file /builddir/build/BUILD/firefox-128.6.0/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:2825): WARNING **: 10:58:16.095: Cannot launch default application: No application is registered as handling this file
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+
+(tracker-miner-fs-3:2588): GLib-CRITICAL **: 11:03:14.537: g_hash_table_contains: assertion 'hash_table != NULL' failed
+[Parent 2825, Main Thread] WARNING: Cannot launch default application: No application is registered as handling this file: 'glib warning', file /builddir/build/BUILD/firefox-128.6.0/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:2825): WARNING **: 11:03:16.391: Cannot launch default application: No application is registered as handling this file
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=6.5409) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+
+(tracker-miner-fs-3:2588): GLib-CRITICAL **: 11:06:28.165: g_hash_table_contains: assertion 'hash_table != NULL' failed
+
+(tracker-miner-fs-3:2588): GLib-CRITICAL **: 11:06:28.549: g_hash_table_contains: assertion 'hash_table != NULL' failed
+
+(tracker-miner-fs-3:2588): GLib-CRITICAL **: 11:06:29.216: g_hash_table_contains: assertion 'hash_table != NULL' failed
+
+(tracker-miner-fs-3:2588): Tracker-CRITICAL **: 11:06:29.278: Error executing batch: Unable to insert multiple values for subject `file:///home/cloud/Desktop/Old%20Firefox%20Data/b19len6s.default-default/storage/default/https+++mail.google.com/cache/morgue/202/%7Bc81dbea3-220c-4bea-8203-9199e6b745ca%7D.final' and single valued property `nfo:fileSize' (old_value: '65856', new value: '32768')
+
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Safe Browsing server returned a 400 during update:request url = https://safebrowsing.googleapis.com/v4/threatListUpdates:fetch?$ct=application/x-protobuf&key=AIzaSyBPGXa4AYD4FC3HJK7LnIKxm4fDusVuuco&$httpMethod=POST, payload = ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaCggFEAIiAiACKAEaCggBEAIiAiACKAEaCggDEAIiAiACKAEaCggHEAIiAiACKAEaCggJEAIiAiACKAE=
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Safe Browsing server returned a 400 during update:request url = https://safebrowsing.googleapis.com/v4/threatListUpdates:fetch?$ct=application/x-protobuf&key=AIzaSyBPGXa4AYD4FC3HJK7LnIKxm4fDusVuuco&$httpMethod=POST, payload = ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaCggFEAIiAiACKAEaCggBEAIiAiACKAEaCggDEAIiAiACKAEaCggHEAIiAiACKAEaCggJEAIiAiACKAE=
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".
+Xlib:  extension "DPMS" missing on display ":10.0".

@@ -1,0 +1,41 @@
+[2026-09-22T10:48:46.276+0530] [INFO ] Socket 14: connection accepted from AF_UNIX
+[2026-09-22T10:48:46.398+0530] [INFO ] sound_process_output_format:
+[2026-09-22T10:48:46.525+0530] [INFO ]       wFormatNo       0
+[2026-09-22T10:48:46.526+0530] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[2026-09-22T10:48:46.527+0530] [INFO ]       nChannels       2
+[2026-09-22T10:48:46.528+0530] [INFO ]       nSamplesPerSec  44100
+[2026-09-22T10:48:46.529+0530] [INFO ]       nAvgBytesPerSec 176400
+[2026-09-22T10:48:46.530+0530] [INFO ]       nBlockAlign     4
+[2026-09-22T10:48:46.530+0530] [INFO ]       wBitsPerSample  16
+[2026-09-22T10:48:46.531+0530] [INFO ]       cbSize          0
+[2026-09-22T10:48:46.532+0530] [INFO ] sound_process_output_format:
+[2026-09-22T10:48:46.533+0530] [INFO ]       wFormatNo       1
+[2026-09-22T10:48:46.534+0530] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[2026-09-22T10:48:46.534+0530] [INFO ]       nChannels       2
+[2026-09-22T10:48:46.535+0530] [INFO ]       nSamplesPerSec  22050
+[2026-09-22T10:48:46.536+0530] [INFO ]       nAvgBytesPerSec 88200
+[2026-09-22T10:48:46.537+0530] [INFO ]       nBlockAlign     4
+[2026-09-22T10:48:46.538+0530] [INFO ]       wBitsPerSample  16
+[2026-09-22T10:48:46.539+0530] [INFO ]       cbSize          0
+[2026-09-22T10:48:46.591+0530] [INFO ] sound_process_training: round trip time 52
+[2026-09-22T10:53:00.577+0530] [ERROR] clipboard_event_selection_request: unknown target text/x-moz-url
+[2026-09-22T10:53:00.581+0530] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[2026-09-22T10:53:00.639+0530] [ERROR] clipboard_event_selection_request: unknown target text/x-moz-url
+[2026-09-22T10:53:00.641+0530] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[2026-09-22T10:53:00.839+0530] [ERROR] clipboard_event_selection_request: unknown target text/x-moz-url
+[2026-09-22T10:53:00.842+0530] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[2026-09-22T10:53:00.943+0530] [ERROR] clipboard_event_selection_request: unknown target text/x-moz-url
+[2026-09-22T10:53:00.946+0530] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[2026-09-22T10:53:06.361+0530] [ERROR] clipboard_event_selection_request: unknown target text/x-moz-url
+[2026-09-22T10:53:06.364+0530] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[2026-09-22T10:53:06.422+0530] [ERROR] clipboard_event_selection_request: unknown target text/x-moz-url
+[2026-09-22T10:53:06.425+0530] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[2026-09-22T10:53:06.482+0530] [ERROR] clipboard_event_selection_request: unknown target text/x-moz-url
+[2026-09-22T10:53:06.484+0530] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[2026-09-22T11:17:36.551+0530] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[2026-09-22T11:17:36.607+0530] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[2026-09-22T11:18:22.979+0530] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[2026-09-22T11:18:37.260+0530] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[2026-09-22T11:19:38.218+0530] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[2026-09-22T11:20:19.896+0530] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[2026-09-22T11:22:13.910+0530] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
