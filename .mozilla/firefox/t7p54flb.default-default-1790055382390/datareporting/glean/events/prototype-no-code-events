@@ -1,1 +1,1 @@
-{"timestamp":2294566,"category":"browser.usage","name":"interaction","extra":{"glean_timestamp":"1790309335699","widget_id":"browser-window-minimize-button","flow_id":"{60fcfd3e-b2bb-4e00-8e0c-1dba9048333e}","source":"tabs-bar"},"execution_counter":17}
+{"timestamp":6369201,"category":"browser.usage","name":"interaction","extra":{"widget_id":"context-paste","source":"content-context","flow_id":"{39fd3a70-2825-4ebf-9622-97004a129c5a}","glean_timestamp":"1790313410334"},"execution_counter":17}
