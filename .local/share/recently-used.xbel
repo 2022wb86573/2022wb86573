@@ -3,22 +3,205 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/cloud/Downloads/adjust.sh" added="2026-09-22T05:23:10.694087Z" modified="2026-09-22T05:33:28.301509Z" visited="2026-09-22T05:23:10.694089Z">
+  <bookmark href="file:///home/cloud/Downloads/adjust.sh" added="2026-09-22T05:23:10.694087Z" modified="2026-09-22T15:27:22.562043Z" visited="2026-09-22T05:23:10.694089Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-shellscript"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-09-22T05:33:28.301501Z" count="4"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-09-22T15:27:22.562036Z" count="6"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-09-22T15:03:19.333964Z" count="13"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/cloud/Downloads/adjust(1).sh" added="2026-09-22T05:33:14.578638Z" modified="2026-09-22T05:33:14.578649Z" visited="2026-09-22T05:33:14.578640Z">
+  <bookmark href="file:///home/cloud/Downloads/adjust(1).sh" added="2026-09-22T05:33:14.578638Z" modified="2026-09-22T15:32:07.628968Z" visited="2026-09-22T05:33:14.578640Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-shellscript"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-09-22T05:33:14.578644Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-09-22T15:32:07.628961Z" count="3"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-09-22T14:55:11.206167Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cloud/Downloads/adjust(2).sh" added="2026-09-22T06:02:19.196365Z" modified="2026-09-22T06:02:19.196377Z" visited="2026-09-22T06:02:19.196367Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-09-22T06:02:19.196371Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cloud/Downloads" added="2026-09-22T06:04:23.545879Z" modified="2026-09-24T15:41:24.970578Z" visited="2026-09-22T06:04:23.545880Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-09-24T15:41:24.970574Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///bin/exo-open" added="2026-09-22T06:11:25.308397Z" modified="2026-09-22T06:11:25.308402Z" visited="2026-09-22T06:11:25.308398Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-09-22T06:11:25.308399Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="trash:///" added="2026-09-22T14:55:57.876284Z" modified="2026-09-22T14:55:57.876290Z" visited="2026-09-22T14:55:57.876285Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-09-22T14:55:57.876286Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="recent:///" added="2026-09-22T14:55:58.764755Z" modified="2026-09-24T08:57:09.829854Z" visited="2026-09-22T14:55:58.764756Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-09-24T08:57:09.829851Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cloud/Desktop" added="2026-09-22T14:56:22.512421Z" modified="2026-09-24T08:57:03.646001Z" visited="2026-09-22T14:56:22.512422Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-09-24T08:57:03.645998Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cloud/Desktop/adjust.sh" added="2026-09-22T15:21:57.995735Z" modified="2026-09-22T15:21:57.995742Z" visited="2026-09-22T15:21:57.995736Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/symlink"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-09-22T15:21:57.995738Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cloud/Downloads/jenkins.war" added="2026-09-24T08:17:08.631770Z" modified="2026-09-24T15:41:18.578184Z" visited="2026-09-24T08:17:08.631771Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-09-24T15:41:18.578178Z" count="3"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-09-24T08:52:46.221350Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cloud/Downloads/jenkins(1).war" added="2026-09-24T08:50:44.444950Z" modified="2026-09-24T15:29:15.468591Z" visited="2026-09-24T08:50:44.444952Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-09-24T15:29:15.468587Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="computer:///" added="2026-09-24T08:56:55.125311Z" modified="2026-09-24T08:56:55.125318Z" visited="2026-09-24T08:56:55.125312Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-09-24T08:56:55.125314Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cloud" added="2026-09-24T08:56:57.962095Z" modified="2026-09-24T08:56:57.962104Z" visited="2026-09-24T08:56:57.962097Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-09-24T08:56:57.962099Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cloud/Downloads/github.hpi" added="2026-09-24T10:00:01.456306Z" modified="2026-09-24T10:16:49.140871Z" visited="2026-09-24T10:00:01.456308Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-09-24T10:16:49.140867Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cloud/Downloads/github-api.hpi" added="2026-09-24T10:08:32.691563Z" modified="2026-09-24T10:17:33.319431Z" visited="2026-09-24T10:08:32.691564Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-09-24T10:17:33.319426Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cloud/Downloads/git-push.hpi" added="2026-09-24T10:24:03.198364Z" modified="2026-09-24T10:24:18.459475Z" visited="2026-09-24T10:24:03.198366Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-09-24T10:24:18.459471Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cloud/Downloads/git-push(1).hpi" added="2026-09-24T10:26:55.943038Z" modified="2026-09-24T10:28:54.604223Z" visited="2026-09-24T10:26:55.943041Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-09-24T10:28:54.604216Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cloud/Downloads/git-push(2).hpi" added="2026-09-24T10:29:44.486814Z" modified="2026-09-24T10:29:44.486830Z" visited="2026-09-24T10:29:44.486817Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-09-24T10:29:44.486824Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cloud/Downloads/git.hpi" added="2026-09-24T10:32:46.198644Z" modified="2026-09-24T10:32:46.198661Z" visited="2026-09-24T10:32:46.198645Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-09-24T10:32:46.198651Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cloud/Downloads/git(1).hpi" added="2026-09-24T10:32:47.947217Z" modified="2026-09-24T10:33:04.980131Z" visited="2026-09-24T10:32:47.947219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-09-24T10:33:04.980124Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

@@ -1,0 +1,1 @@
+/home/cloud/Downloads/adjust.sh

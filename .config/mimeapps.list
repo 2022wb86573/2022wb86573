@@ -1,0 +1,7 @@
+[Default Applications]
+application/x-shellscript=xfce4-terminal-emulator.desktop
+application/zip=firefox.desktop
+
+[Added Associations]
+application/x-shellscript=userapp-exo-open-TDLBW3.desktop;userapp-downloads-I8B1V3.desktop;xfce4-terminal-emulator.desktop;
+application/zip=panel-desktop-handler.desktop;firefox.desktop;

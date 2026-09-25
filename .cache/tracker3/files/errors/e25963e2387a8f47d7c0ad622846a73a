@@ -1,4 +1,0 @@
-[Report]
-Uri=file:///home/cloud/Downloads/adjust(1).sh
-Message=Subject `file:///home/cloud/Downloads/adjust(1).sh' is not in domain `nie:DataObject' of property `nie:interpretedAs'
-Sparql=INSERT DATA {  GRAPH tracker:FileSystem {    <file:///home/cloud/Downloads/adjust(1).sh> tracker:extractorHash "(null)" .  }}; INSERT DATA {\n<file:///home/cloud/Downloads/adjust(1).sh> nie:interpretedAs _:1 .\n_:1 nie:mimeType "application/x-shellscript" ; \n  nie:isStoredAs <file:///home/cloud/Downloads/adjust(1).sh> .\n};\n

@@ -1,2 +1,1 @@
-{"timestamp":1794350,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{01be25e5-d75e-4a7b-bc6f-6659689b1b50}","widget_id":"urlbar-input","source":"nav-bar","glean_timestamp":"1790055965474"},"execution_counter":1}
-{"timestamp":1955247,"category":"browser.usage","name":"interaction","extra":{"source":"nav-bar","widget_id":"urlbar-input","glean_timestamp":"1790056126372","flow_id":"{01be25e5-d75e-4a7b-bc6f-6659689b1b50}"},"execution_counter":1}
+{"timestamp":2294566,"category":"browser.usage","name":"interaction","extra":{"glean_timestamp":"1790309335699","widget_id":"browser-window-minimize-button","flow_id":"{60fcfd3e-b2bb-4e00-8e0c-1dba9048333e}","source":"tabs-bar"},"execution_counter":17}
