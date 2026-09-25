@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://activity-stream/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Fri, 25 Sep 2026 03:44:32 GMT -->
+  <!-- Cached: Fri, 25 Sep 2026 04:19:38 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -35,14 +35,14 @@ window.__STARTUP_STATE__ = {
 		"rows": [
 			{
 				"isDefault": true,
-				"url": "https://trip.prf.hn/click/camref:1101l5zBJv/pubref:361715322108002304?mfadid=adm",
+				"url": "https://trip.prf.hn/click/camref:1101l5zBJv/pubref:361722889139912704?mfadid=adm",
 				"hostname": "trip.prf",
 				"sendAttributionRequest": false,
 				"label": "Trip.com",
 				"show_sponsored_label": true,
 				"sponsored_position": 1,
-				"sponsored_click_url": "https://bridge.pdx1.admarketplace.net/ctp?version=1.0.0&encp=x9IwxQkY7ncqxnwqgCfmfCxX4CfYfQlW1pbWfQfW4tINI94vIpkZ4QlrfCDZfQ8X4Q8dfCf_fQbnxmXVj%3D_dJCkX7RedHReTiF2zfCbW4YIWjF7Qx%3DfzftaWfplnx9EOiF2zfCbW4YIYIGcdj%3DfzfCx_fpfW4QLdfZldfBIqIG4kjG7TgFNkj9eZ7C4e7C7%3D7C7%3Dj97vxt_WxnHUi%3DawfqIQJ%3DwQiYDY3n4NJG7wIODZ2ClXfpcT4GvtBRHwfqIWjF7YIFHwfklZ4QlrfCDZfQ8XfpLWfp8Zfp2wfkIuIncqiF2wfk3NI%3DknHF3mHreQgCbUfpbYftINI9IQHFdWiF2zfZ8k4tINI9IQxnwqgClZ4Clk7ncqjnwqgCldfZbnHF3mHFwqgClW4p2d7ncqjn7YiF2zfCqX1BINI9IojmwqgCfmfCbYfQxXfOINI9IvJmwqgC8W4pLnHF3mHFXRJZ8zCGvIsl_P3Cc4sqw_CE3e4ldl2Gw4sqlW7nIwIF3vIpkX7nIwIF3kiF2zfBInIFEqIF7WgCbUftInIFEqx93vIpkZ",
-				"sponsored_impression_url": "https://imp.mt48.net/static?id=7RHzfOIXjFEYsBdvIpkZ4QlrfCDZfQ8XfpLWfp8Zfp2nj9wWIBdvIpkY7n4YIFckiGIw5FwqgClZ4Clk7ReTHF4wJFEUjtdvIpkXfpbr7ncq5G4wJ%3DEQj%3DwVJOdvIpkZ4QlrfCDZfQ8X4Q8dfCf%2BfQbnxmXVjtdUjFdOIG8zfBInIFEqGmwqgClnInEwIczksGewGmwqgClnIGNkIG7UHFXKHnwqGreYiF4wg2yy",
+				"sponsored_click_url": "https://bridge.pdx1.admarketplace.net/ctp?version=1.0.0&encp=x9IwxQkY7ncqxnwqgCfmfCxYfQLa1ClZ1CqXfQxW4tINI94vIpkZ4QlrfQ8a1pqYfp8afZfkfpLnxmXVj%3D_dJCkX7RedHReTiF2zfCbW4YIWjF7Qx%3DfzftaWfplnx9EOiF2zfCbW4YIYIGcdj%3DfzfCx_fpfW1pHd4Z8r4BIqIG4kjG7TgFNkj9eZ7C4e7C7%3D7C7%3Dj97vxt_WxnHUi%3DawfqIQJ%3DwQiYDY3n4NJG7wIODZ2ClXfpcT4GvtBRHwfqIWjF7YIFHwfklZ4QlrfQ8a1pqXfZq_fC8rfp2wfkIuIncqiF2wfk3NI%3DknHF3mHreQgCbUfpbYftINI9IQHFdWiF2zfZ8k4tINI9IQxnwqgClZ4Clk7ncqjnwqgCldfZbnHF3mHFwqgClW4p2d7ncqjn7YiF2zfCqX1BINI9IojmwqgCfmfCbYfQxXfOINI9IvJmwqgC8W4pLnHF3mHFXRJZ8zCGvIsl_PBGwg3%3DxdCE344DzD3Gw1sqlW7nIwIF3vIpkX7nIwIF3kiF2zfBInIFEqIF7WgCbUftInIFEqx93vIpkZ",
+				"sponsored_impression_url": "https://imp.mt48.net/static?id=7RHzfOIXjFEYsBdvIpkZ4QlrfQ8a1pqXfZq%2BfC8rfp2nj9wWIBdvIpkY7n4YIFckiGIw5FwqgClZ4Clk7ReTHF4wJFEUjtdvIpkXfpbr7ncq5G4wJ%3DEQj%3DwVJOdvIpkZ4QlrfQ8a1pqYfp8afZfkfpLnxmXVjtdUjFdOIG8zfBInIFEqGmwqgClnInEwIczksGewGmwqgClnIGNkIG7UHFXKHnwqGreYiF4wg2yy",
 				"sponsored_tile_id": 1530,
 				"partner": "amp",
 				"favicon": "https://ads-img.mozilla.org/v1/images?image_data=CnAKbmh0dHBzOi8vYW1wLWFzc2V0LjQ1dHUxYzAuY29tL2Fzc2V0cy8xNTMwLzFiZjZiODdlZmUxYmJiOTk0MjEwYjViNGFjZTY1MDc4Y2QzNjQ4MTBlNjRkMGM3MDA2YzBiMjliNWJkODNlZTguanBnEiDcOabu6PL-Oo21LrGnW_Xo_f2rsbigFOZHuUZrcrk3tA",
@@ -51,9 +51,9 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 22320,
+				"frecency": 19950,
 				"guid": "Fm0iluIfEAJN",
-				"lastVisitDate": 1790307587173,
+				"lastVisitDate": 1790308609150,
 				"title": "GitHub",
 				"url": "https://github.com/",
 				"type": "history",
@@ -226,14 +226,14 @@ window.__STARTUP_STATE__ = {
 		"links": [
 			{
 				"isDefault": true,
-				"url": "https://trip.prf.hn/click/camref:1101l5zBJv/pubref:361715322108002304?mfadid=adm",
+				"url": "https://trip.prf.hn/click/camref:1101l5zBJv/pubref:361722889139912704?mfadid=adm",
 				"hostname": "trip.prf",
 				"sendAttributionRequest": false,
 				"label": "Trip.com",
 				"show_sponsored_label": true,
 				"sponsored_position": 1,
-				"sponsored_click_url": "https://bridge.pdx1.admarketplace.net/ctp?version=1.0.0&encp=x9IwxQkY7ncqxnwqgCfmfCxX4CfYfQlW1pbWfQfW4tINI94vIpkZ4QlrfCDZfQ8X4Q8dfCf_fQbnxmXVj%3D_dJCkX7RedHReTiF2zfCbW4YIWjF7Qx%3DfzftaWfplnx9EOiF2zfCbW4YIYIGcdj%3DfzfCx_fpfW4QLdfZldfBIqIG4kjG7TgFNkj9eZ7C4e7C7%3D7C7%3Dj97vxt_WxnHUi%3DawfqIQJ%3DwQiYDY3n4NJG7wIODZ2ClXfpcT4GvtBRHwfqIWjF7YIFHwfklZ4QlrfCDZfQ8XfpLWfp8Zfp2wfkIuIncqiF2wfk3NI%3DknHF3mHreQgCbUfpbYftINI9IQHFdWiF2zfZ8k4tINI9IQxnwqgClZ4Clk7ncqjnwqgCldfZbnHF3mHFwqgClW4p2d7ncqjn7YiF2zfCqX1BINI9IojmwqgCfmfCbYfQxXfOINI9IvJmwqgC8W4pLnHF3mHFXRJZ8zCGvIsl_P3Cc4sqw_CE3e4ldl2Gw4sqlW7nIwIF3vIpkX7nIwIF3kiF2zfBInIFEqIF7WgCbUftInIFEqx93vIpkZ",
-				"sponsored_impression_url": "https://imp.mt48.net/static?id=7RHzfOIXjFEYsBdvIpkZ4QlrfCDZfQ8XfpLWfp8Zfp2nj9wWIBdvIpkY7n4YIFckiGIw5FwqgClZ4Clk7ReTHF4wJFEUjtdvIpkXfpbr7ncq5G4wJ%3DEQj%3DwVJOdvIpkZ4QlrfCDZfQ8X4Q8dfCf%2BfQbnxmXVjtdUjFdOIG8zfBInIFEqGmwqgClnInEwIczksGewGmwqgClnIGNkIG7UHFXKHnwqGreYiF4wg2yy",
+				"sponsored_click_url": "https://bridge.pdx1.admarketplace.net/ctp?version=1.0.0&encp=x9IwxQkY7ncqxnwqgCfmfCxYfQLa1ClZ1CqXfQxW4tINI94vIpkZ4QlrfQ8a1pqYfp8afZfkfpLnxmXVj%3D_dJCkX7RedHReTiF2zfCbW4YIWjF7Qx%3DfzftaWfplnx9EOiF2zfCbW4YIYIGcdj%3DfzfCx_fpfW1pHd4Z8r4BIqIG4kjG7TgFNkj9eZ7C4e7C7%3D7C7%3Dj97vxt_WxnHUi%3DawfqIQJ%3DwQiYDY3n4NJG7wIODZ2ClXfpcT4GvtBRHwfqIWjF7YIFHwfklZ4QlrfQ8a1pqXfZq_fC8rfp2wfkIuIncqiF2wfk3NI%3DknHF3mHreQgCbUfpbYftINI9IQHFdWiF2zfZ8k4tINI9IQxnwqgClZ4Clk7ncqjnwqgCldfZbnHF3mHFwqgClW4p2d7ncqjn7YiF2zfCqX1BINI9IojmwqgCfmfCbYfQxXfOINI9IvJmwqgC8W4pLnHF3mHFXRJZ8zCGvIsl_PBGwg3%3DxdCE344DzD3Gw1sqlW7nIwIF3vIpkX7nIwIF3kiF2zfBInIFEqIF7WgCbUftInIFEqx93vIpkZ",
+				"sponsored_impression_url": "https://imp.mt48.net/static?id=7RHzfOIXjFEYsBdvIpkZ4QlrfQ8a1pqXfZq%2BfC8rfp2nj9wWIBdvIpkY7n4YIFckiGIw5FwqgClZ4Clk7ReTHF4wJFEUjtdvIpkXfpbr7ncq5G4wJ%3DEQj%3DwVJOdvIpkZ4QlrfQ8a1pqYfp8afZfkfpLnxmXVjtdUjFdOIG8zfBInIFEqGmwqgClnInEwIczksGewGmwqgClnIGNkIG7UHFXKHnwqGreYiF4wg2yy",
 				"sponsored_tile_id": 1530,
 				"partner": "amp",
 				"favicon": "https://ads-img.mozilla.org/v1/images?image_data=CnAKbmh0dHBzOi8vYW1wLWFzc2V0LjQ1dHUxYzAuY29tL2Fzc2V0cy8xNTMwLzFiZjZiODdlZmUxYmJiOTk0MjEwYjViNGFjZTY1MDc4Y2QzNjQ4MTBlNjRkMGM3MDA2YzBiMjliNWJkODNlZTguanBnEiDcOabu6PL-Oo21LrGnW_Xo_f2rsbigFOZHuUZrcrk3tA",
@@ -242,9 +242,9 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 22320,
+				"frecency": 19950,
 				"guid": "Fm0iluIfEAJN",
-				"lastVisitDate": 1790307587173,
+				"lastVisitDate": 1790308609150,
 				"title": "GitHub",
 				"url": "https://github.com/",
 				"type": "history",
@@ -985,5 +985,5 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-B’C©£gπ·ÿt           jµÓ I˜X•ˇˇˇˇ       :about:home alt-data 1;178482,script version 20250111020833  
-¢∆
+˜èmVQƒ∫F√           jµˆZI˜^Yˇˇˇˇ       :about:home alt-data 1;178482,script version 20250111020833  
+¢ 
