@@ -2,6 +2,6 @@ package com.bits;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello, Continuous Integration!");
+        System.out.println("Hello, Continuous Integration via Jenkins!");
     }
 }
